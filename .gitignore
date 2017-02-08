@@ -91,3 +91,4 @@ ENV/
 
 # My Specific Rules
 local_settings.py
+docs
